@@ -31,7 +31,7 @@ Certifique-se de ter o seguinte instalado:
 1. **Clone este repositório:**
 
    ```bash
-   git clone https://github.com/seuusuario/blog-simples.git](https://github.com/GabrielFSantana/blog-simples-django
+   git clone https://github.com/GabrielFSantana/blog-simples-django.git
    cd blog-simples
    
 2. **Crie e ative um ambiente virtual (opcional):**
