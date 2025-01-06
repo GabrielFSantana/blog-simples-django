@@ -1,0 +1,7 @@
+<h1>Excluir Postagem</h1>
+<p>Você tem certeza de que deseja excluir "{{ post.title }}"?</p>
+<form method="post">
+    {% csrf_token %}
+    <button type="submit">Excluir</button>
+</form>
+<a href="{% url 'post_list' %}">Cancelar</a>
